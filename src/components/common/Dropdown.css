@@ -1,0 +1,14 @@
+.dropdown {
+  margin-bottom: 20px;
+}
+
+.dropdown select {
+  width: 100%;
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  appearance: none;
+  background: white url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij4KICA8cGF0aCBkPSJNMTQuMjUuNzVMOC4yNSw2LjI1TDEuNzUuNzV6IiBmaWxsPSIjMDAwIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz4KPC9zdmc+Cg==') no-repeat right 10px center;
+  font-size: 14px;
+  color: #333;
+}

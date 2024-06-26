@@ -1,0 +1,8 @@
+.dash-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background-color: #7986CB33;
+    background-image: radial-gradient(circle, rgba(56, 50, 50, 0.4) 1px, transparent 1px);
+    background-size: 25px 25px;
+}

@@ -1,0 +1,37 @@
+.info-banner {
+    display: flex;
+    align-items: center;
+    background-color: #F5F5F5;
+    border: 1px solid #F5F5F5;
+    border-radius: 8px;
+    padding: 10px;
+    max-width: 300px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+  
+.icon {
+    font-size: 24px;
+    margin-right: 10px;
+}
+  
+.text {
+    flex-grow: 1;
+}
+  
+.text p {
+    margin: 0;
+    font-size: 14px;
+}
+  
+.learn-more {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 12px;
+}
+  
+.close-button {
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 10px;
+}
+  

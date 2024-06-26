@@ -1,0 +1,16 @@
+.nav-bar {
+    width: 56px;
+    display: flex;
+    flex-direction: column;
+    background-color: #20232A;
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    z-index: 100;
+}
+
+.nav-spacer {
+    flex-grow: 1;
+    border-bottom: 1px solid #ccc;
+}

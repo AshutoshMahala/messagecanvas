@@ -1,0 +1,31 @@
+.info-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  max-width: 400px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.header-title {
+  font-size: 18px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+}
+
+.info-icon {
+  font-size: 14px;
+  margin-left: 5px;
+}
+
+.content {
+  margin-top: 20px;
+}

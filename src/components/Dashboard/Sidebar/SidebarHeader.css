@@ -1,0 +1,22 @@
+.sidebar-header {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    border: 0px;
+    height: 24px;
+    padding: 15px 0px 15px 15px;
+    margin: 0px;
+    text-align: center;
+}
+
+.sidebar-header-text {
+    padding: 0px;
+    margin: 0px;
+    font-size: 24px;
+    font-style: 'bold';
+}
+
+.close-sidebar-button {
+    float: right;
+    margin-right: 30px;
+}
