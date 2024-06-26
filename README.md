@@ -5,7 +5,10 @@ This is a mini project that demonstrates a dashboard application using React, Ty
 
 ## Getting Started
 
-
 1. Clone the repository
 2. run ```npm install```
-3. run ```npm start````
+3. run ```npm start```
+
+
+## Aditional Note
+In case you want to add a message preview. There is a small button "Add Message" below the dashboard heading on the top-left of the canvas.
